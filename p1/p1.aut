@@ -5,5 +5,5 @@ connector c1(){
 }
 
 connector c2(){
-	@v4 CONNECTOR c3;
+	@v6 CONNECTOR c3;
 }
