@@ -1,4 +1,0 @@
-basic hex2Dec( char hex ) : int dec {
-	//v1.0.1
-	int b = 20;
-}
