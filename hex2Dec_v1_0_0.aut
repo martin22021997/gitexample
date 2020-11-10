@@ -1,0 +1,3 @@
+basic hex2Dec( char hex ) : int dec {
+	//v1.0.0
+}
